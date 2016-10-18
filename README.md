@@ -9,7 +9,7 @@ Desenvolvido por:
 -----------------------
 
 ```
- Luiz Fernando Ventura Sene Gonçalves - nandosenne@sgmail.com
+ Luiz Fernando Ventura Sene Gonçalves - nandosenne@gmail.com
 ```
 
 Informações:
@@ -43,7 +43,7 @@ Developed by:
 -------------
 
 ```
-  Luiz Fernando Ventura Sene Gonçalves - nandosenne@sgmail.com
+  Luiz Fernando Ventura Sene Gonçalves - nandosenne@gmail.com
 ```
 
 What Is This?
