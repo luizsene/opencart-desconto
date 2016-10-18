@@ -15,7 +15,7 @@ Desenvolvido por:
 Informações:
 -----------------------
 
-- Módulo para Desconto no valor total da compra por quantidade de itens no carrinho e tipo de clinte
+- Módulo para Desconto no valor total da compra por quantidade de itens no carrinho e tipo de cliente
 
 
 Versão:
@@ -39,17 +39,17 @@ Instruções:
 - Configure o modulo de Desconto de acordo com sua necessidade
 
 
-What Is This?
+Developed by:
 -------------
 
 ```
   Luiz Fernando Ventura Sene Gonçalves - nandosenne@sgmail.com
 ```
 
-information:
+What Is This?
 -----------------------
 
-- Module for Discount on total purchase amount per quantity of items in the cart and type clinte
+- Module for Discount on total purchase amount per quantity of items in the cart and customer type
 
 
 Version:
