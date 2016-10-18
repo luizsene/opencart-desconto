@@ -1,7 +1,7 @@
 <?php
 /**
 * @ngdoc overview
-* @name clusbe.controller
+* @name opencart-desconto
 * @author Luiz Fernando Ventura Sene Gonçalves <nandosenne@gmail.com>
 * @version 1.0.0
 * @description

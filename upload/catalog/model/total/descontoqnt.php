@@ -1,7 +1,7 @@
 <?php
 /**
 * @ngdoc overview
-* @name clusbe.controller
+* @name opencart-desconto
 * @author Luiz Fernando Ventura Sene Gonçalves <nandosenne@gmail.com>
 * @version 1.0.0
 * @description
@@ -17,7 +17,10 @@ class ModelTotalDescontoqnt extends Model {
 			$quantidade=$this->config->get('descontoqnt_quantidade');
 			$tipo=$this->config->get('descontoqnt_tipo');
 			$produtos = $this->cart->getProducts();
-			$qnt = 0;							  	foreach ($produtos as $prod) {						$qnt += $prod['quantity'];				}										if(in_array($this->customer->getGroupId(), $tipo)) {
+			$qnt = 0;							  	foreach ($produtos as $prod) {
+				$qnt += $prod['quantity'];
+			}
+			if(in_array($this->customer->getGroupId(), $tipo)) {
 				if($qnt >= $quantidade) {
 					$this->load->language('total/descontoqnt');
 					$percent = $this->config->get('descontoqnt_total') / 100;
