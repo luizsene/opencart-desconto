@@ -5,12 +5,6 @@ Total DescontoQuantidadeItemCarrinho
 Módulo DescontoQnt
 **************************************
 
-Desenvolvido por:
------------------------
-
-```
- Luiz Fernando Ventura Sene Gonçalves - nandosenne@gmail.com
-```
 
 Informações:
 -----------------------
@@ -39,12 +33,9 @@ Instruções:
 - Configure o modulo de Desconto de acordo com sua necessidade
 
 
-Developed by:
--------------
+![imagem](https://raw.githubusercontent.com/luizsene/opencart-desconto/master/desconto.png)
 
-```
-  Luiz Fernando Ventura Sene Gonçalves - nandosenne@gmail.com
-```
+
 
 What Is This?
 -----------------------
